@@ -1,1 +1,1 @@
-# llms-explore
+Exploring and learning about LLMs. 
